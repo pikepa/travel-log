@@ -6,9 +6,10 @@ A full stack application built with Nuxtthat allows user to keep track of all th
 
 Make sure to install dependencies:
 
-````bash
+```bash
 # npm
 npm install
+```
 
 ## Development Server
 
@@ -17,8 +18,7 @@ Start the development server on `http://localhost:3000`:
 ```bash
 # npm
 npm run dev
-
-````
+```
 
 ## Production
 
