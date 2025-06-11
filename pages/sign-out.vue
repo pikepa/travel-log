@@ -1,5 +1,8 @@
 <script lang="ts" setup>
 const authStore = useAuthStore();
+onMounted(() => {
+  authStore.signOut();
+});
 </script>
 
 <template>
